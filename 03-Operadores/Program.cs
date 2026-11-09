@@ -25,7 +25,10 @@ class Program
         Console.WriteLine($"Residuo: {numero1 % numero2}");
         Console.WriteLine($"¿El primero es par?: {esPar}");
     }
-    /*
+    
+}
+class Prueba_de_Escritorio 
+{/*
 PRUEBA DE ESCRITORIO
 Valores:
 x = 10
@@ -40,5 +43,4 @@ División entera:      10 / 3 = 3
 Residuo:              10 % 3 = 1
 ¿El primero es par?:  10 % 2 == 0 = true
 
-*/
-}
+*/}
